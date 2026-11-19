@@ -28,8 +28,6 @@
     ["Week 4", "21/06/26 – 26/06/26", "Soil testing", "I collected soil samples and did physical tests on texture, colour and structure."],
     ["Week 5", "29/06/26 – 04/07/26", "Soil protection plan", "I made a soil protection plan, spoke to farmers in the fields, practised in my mini garden, and collected natural materials that help soil."],
     ["Week 6", "06/07/26 – 11/07/26", "Implementation", "I revised weeks 2 to 5, used cow and buffalo dung, added compost, and planted vegetables and flowers."],
-    ["Week 7", "", "No separate activity log in the report", "My report has no entry for this week, so I have not added any. To be confirmed with my guide.", true],
-    ["Week 8", "ending 26/07/26", "Mini project and close", "My report lists a two-week webpage mini project from 13/07/26 to 26/07/26. This overlaps Week 7, so the exact dates need to be confirmed.", true]
   ];
   var questions = [
     "What type of crops do you usually cultivate in your land?",
@@ -44,13 +42,13 @@
     "What support do you expect from the government or organizations to protect the soil?"
   ];
   var gallery = [
-    ["field-visit.jpg", "Students observing soil in a field", "Field visit"],
-    ["erosion-observation.jpg", "Students studying eroded ground", "Erosion observation"],
-    ["soil-collection.jpg", "Hands holding a handful of soil", "Soil sample collection"],
+    // ["field-visit.jpg", "Students observing soil in a field", "Field visit"],
+    // ["erosion-observation.jpg", "Students studying eroded ground", "Erosion observation"],
+    // ["soil-collection.jpg", "Hands holding a handful of soil", "Soil sample collection"],
     ["farmer-interview.jpg", "Student interviewing a farmer", "Farmer interaction"],
     ["awareness-session.jpg", "Awareness session with posters and charts", "Awareness session"],
     ["school-session.jpg", "Awareness session at ZP High School", "School session"],
-    ["compost-demo.jpg", "Compost pit demonstration", "Compost demonstration"],
+    // ["compost-demo.jpg", "Compost pit demonstration", "Compost demonstration"],
     ["mini-garden-planting.jpg", "Planting vegetables and flowers in the mini garden", "Mini garden planting"]
   ];
 
